@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<meta charest="utf-8"/>
+<meta name="descraption"content="uuuuu"/>
+<head>
+<title>project</title>
+</head>
+<body style="background: #668cff;color:white"; >
+<h1><i>Web Areas:</i></h1>
+<ol>
+<li>Web Desine</li>
+<li>Web Development</li>
+</ol>
+<ol>
+<li>Front-end web developer
+<ul>
+<li>Html</li>
+<li>Css</li>
+<li>Js</li>
+</ul>
+</li>
+<p>2. Back-end web developer</p>
+<ul>
+<li>php</li>
+<li>Java</li>
+<li>Sql</li>
+</ul>
+<p>3. Full Stack developer</p>
+<p>Back-end & Front-end web developer<p>
+<a href="index2.html">Next Page</a>
+
+
+
+
+</body>
+</html>
